@@ -1,6 +1,6 @@
 # bigbigan_fabric
 
-嘗試 BigBiGAN 對 fabric.com 進行特徵萃取
+嘗試fabric.com的資料訓練BiGAN
 
 參考code
 - [Keras-BiGAN](https://github.com/manicman1999/Keras-BiGAN)
